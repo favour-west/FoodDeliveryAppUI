@@ -1,6 +1,6 @@
 # food_delivery_app
 
-A new Flutter project.
+This project designs a beautiful food delivery app using flutter and dart.
 
 ## Getting Started
 
